@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RepTrack</string>
+    <string name="newWorkout">New Workout</string>
+    <string name="newExercise">New Exercise</string>
+    <string name="sets">Sets</string>
+    <string name="reps">Reps</string>
+    <string name="weight">Weight</string>
+    <string name="exerciseName">Exercise Name</string>
+    <string name="weightExample">225</string>
+    <string name="addExercise">Add Exercise</string>
+</resources>
